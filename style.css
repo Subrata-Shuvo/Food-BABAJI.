@@ -1,0 +1,122 @@
+body {
+  font-family: "Ubuntu", sans-serif;
+}
+h1 {
+  font-size: 28px;
+  font-weight: 800;
+}
+span {
+  color: rgb(99, 221, 0);
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(#009b00, rgb(108, 255, 41));
+  color: aliceblue;
+  font-weight: 700;
+  padding: 10px 30px;
+  border-radius: 20px 20px 20px 20px;
+  box-shadow: 15px 10px 40px greenyellow;
+}
+.Section-container1 {
+  display: flex;
+}
+.half-width {
+  width: 50%;
+  padding: 2%;
+}
+.Section-container1 img {
+  height: 390px;
+  width: 400px;
+}
+
+.Section-container2 {
+  display: flex;
+}
+.Section-container2 img {
+  height: 250px;
+  width: 400px;
+}
+.Section-container2 h1 {
+  color: rgb(212, 156, 0);
+}
+.back-frame {
+  background-image: url(images/shapes/Frame\ 58.jpg);
+  background-repeat: no-repeat;
+  height: 300px;
+  padding-left: 0%;
+}
+.Section-container3 h1 {
+  text-align: center;
+  color: rgb(99, 221, 0);
+}
+.recipe {
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+.box {
+  width: 90%;
+  padding-left: 5%;
+  padding-right: 5%;
+  text-align: center;
+}
+.menu1 {
+  width: 30%;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-left: 15px;
+  padding-right: 10px;
+  padding-top: 10px;
+  box-shadow: 10px 10px 30px greenyellow;
+  border-radius: 20px 20px 20px 20px;
+  margin: 4%;
+}
+
+#one {
+  width: 250px;
+  height: 195px;
+  border-radius: 20px 20px 20px 20px;
+}
+
+#two {
+  width: 250px;
+  height: 195px;
+  border-radius: 20px 20px 20px 20px;
+}
+
+#three {
+  width: 250px;
+  height: 195px;
+  border-radius: 20px 20px 20px 20px;
+}
+
+.menu {
+  padding-right: 6.7%;
+}
+
+.social-media {
+  text-decoration: none;
+}
+
+.footer {
+  background-color: rgba(0, 0, 0, 0.897);
+  text-align: center;
+  height: 100px;
+  border-radius: 10px;
+}
+.footer h4 {
+  color: yellow;
+  text-align: center;
+}
+
+.menu2 {
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  box-shadow: 10px 10px 30px greenyellow;
+  border-radius: 20px 20px 20px 20px;
+  margin: 4%;
+}
